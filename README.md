@@ -1,0 +1,2 @@
+# deep_learning_work
+这里描述了我的深度学习实训，参加一个kaggle上的比赛并拿到0.72的评分
